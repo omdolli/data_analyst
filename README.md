@@ -26,3 +26,52 @@
 - Python
 
 ---
+
+
+## Day 2 – Loops and Logic
+
+### 📘 What I Learned:
+- for loop and while loop
+- range() usage
+- Loop control (break, continue)
+- Logic building with loops
+
+### 💻 What I Built:
+- Loop-based problems:
+  - Sum of numbers
+  - Even number series
+  - Multiplication table
+  - Count digits
+  - Reverse number
+  - Prime number check
+  - Factorial
+
+- Project Upgrade:
+  - Added loop to handle multiple products in sales project
+  - Implemented total revenue calculation
+
+---
+
+## Day 3 – Functions
+
+### 📘 What I Learned:
+- Functions and modular programming
+- Parameters and return values
+- Difference between print and return
+
+### 💻 What I Built:
+- Function-based problems:
+  - Addition
+  - Even/Odd checker
+  - Square function
+  - Largest of 3 numbers
+  - Factorial
+  - Prime check
+  - Reverse number
+
+- Project Upgrade:
+  - Refactored sales project using functions
+  - Improved code structure and reusability
+
+### 🛠️ Tools Used:
+- Python
