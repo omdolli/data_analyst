@@ -75,3 +75,32 @@
 
 ### 🛠️ Tools Used:
 - Python
+
+## Day 4 – Lists and Data Handling
+
+### 📘 What I Learned:
+- Python lists and indexing
+- Iterating through lists using loops
+- List operations like append, insert, remove
+- Data analysis using lists (sum, max, min, average)
+
+### 💻 What I Built:
+- List-based problems:
+  - Sum of elements in a list
+  - Finding largest number
+  - Counting even numbers
+  - Removing duplicates
+  - Finding second largest number
+  - Reversing a list
+
+- Project Upgrade:
+  - Stored sales data in a list
+  - Implemented data analysis:
+    - Total revenue
+    - Highest sale
+    - Lowest sale
+    - Average sale
+    - Number of transactions
+
+### 🛠️ Tools Used:
+- Python
